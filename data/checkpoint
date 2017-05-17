@@ -1,0 +1,4 @@
+model_checkpoint_path: "D:\\Data-Science-ML\\data-science\\data\\my_model.ckpt"
+all_model_checkpoint_paths: "/tmp/my_model.ckpt"
+all_model_checkpoint_paths: "data/my_model.ckpt"
+all_model_checkpoint_paths: "D:\\Data-Science-ML\\data-science\\data\\my_model.ckpt"
